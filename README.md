@@ -10,7 +10,7 @@ You will find it in the manager.
 
 Search for `get line`, `get-line` or `getline`
 
-![alt text](./docs/{030B56D7-7CD3-41F6-825B-D1606276C31F}.png)
+![alt text](./docs/{CA3D61F5-35FF-4A3D-ADE2-3DDD3FEBEDF2}.png)
 
 ## Sample Workflows
 
@@ -38,7 +38,7 @@ A bird
 
 ### Qwen Edit 2509 Example
 
-| Intitial Image                                                    | Workflow                                                      |
+| Initial Image                                                     | Workflow                                                      |
 | ----------------------------------------------------------------- | ------------------------------------------------------------- |
 | ![Qwen Edit 2509 Example](./docs/get-line-qwen-initial-image.png) | ![Qwen Edit 2509 Example](./docs/qwen-edit-2509-workflow.png) |
 
