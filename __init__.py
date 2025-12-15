@@ -5,7 +5,7 @@ class GetLine:
             "required": {
                 "text": ("STRING", {
                     "multiline": True,
-                    "default": ""
+                    "default": "A cat\nA dog\nA bird\n"
                 }),
                 "index": ("INT", {
                     "default": 0,
@@ -28,7 +28,7 @@ class GetLine:
         if not lines:
             return ("",)
 
-        safe_index = max(0, min(index, len(lines) - 1))
+        safe_index = index % len(lines)
         return (lines[safe_index],)
 
 
