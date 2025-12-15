@@ -6,7 +6,9 @@ A ComfyUI custom node used to get one line of string from a multi line string.
 
 ## Sample Workflows
 
-Drag into ComfyUI. Not that you usually can't drag from GitHub, so drag to your desktop first, and then drag into ComfyUI from tehre.
+Drag example workflows into ComfyUI.
+
+_Note that you usually can't drag from GitHub, so drag or download to your desktop/pc first, and then drag into ComfyUI from there._
 
 ### SD1.5 Example
 
